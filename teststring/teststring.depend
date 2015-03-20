@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1426839436 source:/home/helei0147/CPP Projects/teststring/main.cpp
+	<iostream>
+	<string>
+	<vector>
+

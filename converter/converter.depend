@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1331953375 source:c:\123\converter\main.cpp
+	<iostream>
+	<string>
+	<windows.h>
+
+1331953375 >
+
+1426865313 source:/home/helei0147/CPP Projects/converter/main.cpp
+	<iostream>
+	<string>
+
